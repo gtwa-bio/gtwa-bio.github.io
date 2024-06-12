@@ -1,0 +1,42 @@
+---
+title: "Guy Twa"
+image: "gtwa_headshot.jpg"
+links:
+  - label: Scholar
+    url: "https://scholar.google.com/citations?user=sqkcRDQAAAAJ&hl=en"
+  - label: GitHub
+    url: "https://github.com/gtwa-bio"
+  - label: Email
+    url: "mailto:gtwa@uab.edu"
+  - label: Twitter
+    url: "https://twitter.com/"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+
+Guy Twa is a Genetics, Genomics and Bioinformatics Ph.D. candidate in the Day Lab at the University of Alabama at Birmingham. His research utilizes computational biology and machine learning approaches to characterize genomic regulatory interactions and their dysregulation in neurobiology.
+
+
+## Education
+
+**University of Alabama at Birmingham** | Birmingham, AL
+
+Ph.D. in Biomedical Sciences | August 2021 - Present
+
+**University of Alabama at Birmingham** | Birmingham, AL
+
+M.S. in Biomedical Sciences | May 2021
+
+**University of Alabama at Birmingham** | Birmingham, AL
+
+B.S. in Genetics and Genomic Sciences | May 2020
+
+
+## Publications
+
+1. Wallen ZD, Demirkan A, **Twa G**, Cohen G, Dean MN, Standaert DG, Sampson T, Payami H. Metagenomics of Parkinson's disease implicates the gut microbiome in multiple disease mechanisms. *Nat Commun* 13, 6958 (2022). https://doi.org/10.1038/s41467-022-34667-x
+
+2. Scull CE, **Twa G**, Zhang Y, Yang NJ, Hunter RN III, Augelli-Szafran CE, Schneider DA. Small Molecule RBI2 Disrupts Ribosome Biogenesis through Pre-rRNA Depletion. **Cancers**. 2023; 15(13):3303. https://doi.org/10.3390/cancers15133303
