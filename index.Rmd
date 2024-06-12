@@ -21,21 +21,20 @@ Guy Twa is a Genetics, Genomics and Bioinformatics Ph.D. candidate in the Day La
 
 
 ## Education
+***
 
-**University of Alabama at Birmingham** | Birmingham, AL
-
-Ph.D. in Biomedical Sciences | August 2021 - Present
-
-**University of Alabama at Birmingham** | Birmingham, AL
-
-M.S. in Biomedical Sciences | May 2021
-
-**University of Alabama at Birmingham** | Birmingham, AL
-
-B.S. in Genetics and Genomic Sciences | May 2020
+**University of Alabama at Birmingham, Birmingham, AL** \hfill August 2021 - Present  
+Ph.D - Graduate Biomedical Sciences Trainee 
+  
+**University of Alabama at Birmingham, Birmingham, AL** \hfill May 2021  
+M.S. - Biomedical Sciences, Bioinformatics Concentration 
+  
+**University of Alabama at Birmingham, Birmingham, AL** \hfill May 2020  
+B.S. - Genetics and Genomic Sciences
 
 
 ## Publications
+***
 
 1. Wallen ZD, Demirkan A, **Twa G**, Cohen G, Dean MN, Standaert DG, Sampson T, Payami H. Metagenomics of Parkinson's disease implicates the gut microbiome in multiple disease mechanisms. *Nat Commun* 13, 6958 (2022). https://doi.org/10.1038/s41467-022-34667-x
 
