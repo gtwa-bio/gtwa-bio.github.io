@@ -19,7 +19,7 @@ output:
 ## Bio
 
 
-Guy Twa is a Ph.D. candidate in Genetics, Genomics, and Bioinformatics with seven years of research experience in genetics and genomics. Experienced in processing and analyzing bulk and single-cell genomic sequence data from various model systems using statistics and machine learning approaches. Proficient in `R`, `Python`, and `Bash` programming to create and implement bioinformatics workflows for large datasets in high-performance computing cluster environments. I am passionate about understanding how genomic regulatory systems integrate and adapt to information from their environment.
+I am a Ph.D. candidate in Genetics, Genomics, and Bioinformatics in Jeremy Day’s lab at the University of Alabama at Birmingham. I’m passionate about studying the DNA sequences that orchestrate the genome's informational output in response to environmental context, how this output reshapes the environment in turn, and how these systems become dysregulated in disease. To study these mechanisms, I integrate multimodal genomics data using computational modeling.
 
 ## Education
 ***
@@ -40,10 +40,12 @@ B.S. in Genetics and Genomic Sciences | May 2020
 ## Publications
 ***
 
-1. Wallen ZD, Demirkan A, **Twa G**, Cohen G, Dean MN, Standaert DG, Sampson T, Payami H. Metagenomics of Parkinson's disease implicates the gut microbiome in multiple disease mechanisms. *Nat Commun* 13, 6958 (2022). https://doi.org/10.1038/s41467-022-34667-x
+1. Wallen ZD, Demirkan A, **Twa G**, Cohen G, Dean MN, Standaert DG, Sampson T, Payami H. Metagenomics of Parkinson's disease implicates the gut microbiome in multiple disease mechanisms. *Nature Communications* 13, 6958 (2022). https://doi.org/10.1038/s41467-022-34667-x
 
-2. Scull CE, **Twa G**, Zhang Y, Yang NJ, Hunter RN III, Augelli-Szafran CE, Schneider DA. Small Molecule RBI2 Disrupts Ribosome Biogenesis through Pre-rRNA Depletion. **Cancers**. 2023; 15(13):3303. https://doi.org/10.3390/cancers15133303
+2. Scull CE, **Twa G**, Zhang Y, Yang NJ, Hunter RN III, Augelli-Szafran CE, Schneider DA. Small Molecule RBI2 Disrupts Ribosome Biogenesis through Pre-rRNA Depletion. *Cancers*. 2023; 15(13):3303. https://doi.org/10.3390/cancers15133303
+
+3. **Twa G**, Phillips III R, Robinson N, Day J. Accurate sample deconvolution of pooled snRNA-seq using sex-dependent gene expression patterns. *NAR Genomics and Bioinformatics*. 2025 Nov 22; doi: https://doi.org/10.1093/nargab/lqaf156
 
 ## Preprints
 
-1. **Twa G**, Phillips III R, Robinson N, Day J. Accurate sample deconvolution of pooled snRNA-seq using sex-dependent gene expression patterns. bioRxiv. 2024 Dec 03; doi: https://doi.org/10.1101/2024.11.29.626066 
+1. Tuscher J, Cleere A, Phillips III R, Newman C, **Twa G**, Robinson N, Ianov L, Sorge R, Day J. Morphine regulates astrocyte transcriptional dynamics in the ventral tegmental area by stimulation of glucocorticoid signaling. *eLife*. 2026 Apr 22; doi: https://doi.org/10.7554/eLife.110697.1
